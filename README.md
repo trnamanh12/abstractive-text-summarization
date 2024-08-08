@@ -1,6 +1,5 @@
 
 # Abstractive Text Summarization
-Tran Nam Anh - 22022569
 
 This repository contains code for training and inferencing about Abstractive Text Summarization task. 
 
