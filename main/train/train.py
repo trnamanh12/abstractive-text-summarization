@@ -76,6 +76,5 @@ def train(model, train_loader, optimizer, scheduler, epoch, device):
     
     return epoch_loss
 
-# Note: Move this outside of the train function, preferably in your main script
-# wandb.watch(model, log="all", log_freq=100)
+
 
