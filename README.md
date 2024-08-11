@@ -41,7 +41,7 @@ To use this code, you will need to:
 1. **Install Dependencies:**  Make sure you have the necessary Python packages installed. Do this with `pip install -r requirements.txt` 
 2. **Train the Model:** Run `python main_train.py` to train the model. ( Make sure you are in the **main** directory and place the right path containing the data, the model and the API wandb key)
 3. **Run Inference:** After training, use `python main_infer.py` to perform inference on new data.
-( Make sure you are in the **main** directory place and the right right path containing the data and the model)
+( Make sure you are in the **main** directory and place the right path that containing the data and the model)
 
 
 
